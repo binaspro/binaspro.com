@@ -141,6 +141,7 @@ a.social:hover {
         height: 95vh;
     }
     .profile-pic img {
+        border-radius: 0%;
         width: 300px;
     }
     .flexible {
